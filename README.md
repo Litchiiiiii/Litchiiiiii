@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=Litchiiiiiii&show_icons=true&theme=transparent
+https://github-readme-stats.vercel.app/api?username=Litchiiiiii&show_icons=true&theme=transparent
